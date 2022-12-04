@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisrat Tamire</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">A passionate Back-end developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisrat24&label=Profile%20views&color=0e75b6&style=flat" alt="bisrat24" /> </p>
 
@@ -12,3 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisrat24&show_icons=true&locale=en" alt="bisrat24" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisrat24&" alt="bisrat24" /></p>
