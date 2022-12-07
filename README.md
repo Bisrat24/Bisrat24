@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/98729397/179342328-27a8c853-cb31-4ba8-95da-e978a395366c.png(https://unsplash.com/photos/842ofHC6MaI)" />
+<img src="https://user-images.githubusercontent.com/98729397/179342328-27a8c853-cb31-4ba8-95da-e978a395366c.png" />
 <h1 align="center">Hi 👋, I'm Bisrat Tamire</h1>
 <h3 align="center">A passionate Back-end developer from Ethiopia</h3>
 
